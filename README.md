@@ -8,7 +8,8 @@
 - [클로저](https://github.com/aksen123/Interview-questions/blob/main/notes/closure.md)
 - [CSS position, margin / padding](https://github.com/aksen123/Interview-questions/blob/main/notes/css.md)
 - [CSS display](https://github.com/aksen123/Interview-questions/blob/main/notes/css-display.md)
-- [CSR< SSR](https://github.com/aksen123/Interview-questions/blob/main/notes/spa-csr-ssr.md)
+- [CSR, SSR](https://github.com/aksen123/Interview-questions/blob/main/notes/spa-csr-ssr.md)
+- [메모리누수](https://github.com/aksen123/Interview-questions/blob/main/notes/react-memory-leak.md)
   
 
 
